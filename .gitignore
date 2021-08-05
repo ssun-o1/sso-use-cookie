@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/sso-cart/build/
+/sso-cart/build/classes/java/main/
+/sso-login/build/
+/sso-login/build/classes/java/main/
+/sso-main/build/
+/sso-main/build/classes/java/main/
+/sso-vip/build/
+/sso-vip/build/classes/java/main/
